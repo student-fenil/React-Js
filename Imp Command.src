@@ -1,0 +1,9 @@
+npm create vite
+
+
+
+
+//folder open kerne ke liye
+
+cd .\01-folder
+npm run dev   
