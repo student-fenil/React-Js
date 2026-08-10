@@ -7,3 +7,24 @@ npm create vite
 
 cd .\01-folder
 npm run dev   
+
+
+
+
+
+
+
+
+
+//css boiler plat code
+*{
+  margin :0;
+  padding-bottom: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
