@@ -1,0 +1,29 @@
+*{
+  margin :0;
+  padding-bottom: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+.btn{
+  background-color: red;
+  width: fit-content;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+
+
+.header{
+  background-color: red;
+  width: fit-content;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 5px;
+}
