@@ -1,0 +1,6 @@
+//usestate--state ko manage kerta he
+useeffect--side effects handle (jaise api,dom manupulation,event listner)
+useref--mutable values hold kerne ke liye render trigger ,dom access liye
+usememo&usecallback--use callback optimization unnceessary renderss avoid ke liye
+usecontext--global state management by without prop drilling.
+use reducer--complex stat management (redux  chotta version)
