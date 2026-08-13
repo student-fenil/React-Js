@@ -1,0 +1,5 @@
+npm install tailwindcss @tailwindcss/vite
+
+vite config.js me lokho-- import tailwindcss from '@tailwindcss/vite'
+plugins:[react(),tailwindcss()],
+index.css likho -- @import "tailwindcss";

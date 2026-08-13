@@ -5,7 +5,8 @@ npm create vite
 
 //folder open kerne ke liye
 
-cd .\01-folder
+cd .\01-folder ya ee
+cd ".\17-galarry project"
 npm run dev   
 
 
@@ -28,3 +29,7 @@ body{
   height: 100%;
   width: 100%;
 }
+
+
+
+
