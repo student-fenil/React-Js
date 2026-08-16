@@ -13,11 +13,13 @@ npm run dev
 
 
 
-
+//react router
+ npm i react-router-dom 
 
 
 
 //css boiler plat code
+
 *{
   margin :0;
   padding-bottom: 0;
